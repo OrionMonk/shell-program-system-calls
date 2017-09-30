@@ -13,7 +13,7 @@ functionalities. Usage - *rmexcept* or *rmexcept <list_of_files>*
 
 > mkdir - creates an empty directory with the specified name. Usage - *mkdir <name>*
 
-> history - lists last n recent commmands executed. Usage - *history n* or *history *
+> history - lists last n recent commmands executed. Usage - *history n* or *history*
 
 > issue - issues nth recent command once again. Usage - *issue n*
 
