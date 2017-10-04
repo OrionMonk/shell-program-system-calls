@@ -1,6 +1,6 @@
 # Shell Program
 ## Features
-The shell program runs a simple loop to **extract the current working directory** everytime. In each loop, the program prompts for user input and then executes the command given by the user through by creating a different process through fork for **mkdir, rm, rmexcept, ls, touch,** and **<program_name>** commands. It is done using the **fork()** function, to create a child process for the purpose.
+The shell program runs a simple loop to **extract the current working directory** everytime. In each loop, the program prompts for user input and then executes the command given by the user by creating a different process through fork for **mkdir, rm, rmexcept, ls, touch,** and **<program_name>** commands. It is done using the **fork()** function, to create a child process for the purpose.
 The following commands are provided in the shell program:
 * ls - Lists all files and folders in the current directory
 
